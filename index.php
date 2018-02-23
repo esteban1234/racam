@@ -65,14 +65,78 @@
       </div>
     </header>
 
-  <span class="ir-arriba"><i class="fa fa-arrow-up" aria-hidden="true"></i></span>
+  <!-- <span class="ir-arriba"><i class="fa fa-arrow-up" aria-hidden="true"></i></span> -->
 
 <section class="seccion1" id="NOSOTROS" >
 
+      <div class="container" style="padding: 5% 0%;">
+        <div class="row">
+          <div class="col-md-12">
+            <h1 class="text-center">RACAM GASTRONOMIA</h1>
+            <h3 class="text-center">El mejor lugar para disfrutar una comida bien hecha con música en vivo, cerveza y la mejor atención.</h3>
+            <p class="texto">En RACAM queremos que disfrutes. Que saborees la mejor comida y la acompañes de nuestros famosos Clamatos y cocteleria de cerveza, únicos. Además, de nuestros vinos y barra de licores. RACAM es un lugar para que vengas con tus amigos, con tu familia y la pases bien. Aqui puedes escuchar buena música, relájarte y pasar un rato a gusto con quien tu quieras. Descubre un nuevo lugar para disfrutar.</p>
+          </div>
+        </div> <br><br>
+        <div class="row">
+          <div class="col-md-4">
+            <figure class="comida1">
+              
+            </figure>
+          </div>
+          <div class="col-md-4">
+            <figure class="comida2">
+              
+            </figure>
+          </div>
+          <div class="col-md-4">
+            <figure class="comida3">
+              
+            </figure>
+          </div>
+        </div>
+      </div>
+
 </section>
 
-<section class="seccion2" id="SERVICIOS">
-
+<section class="seccion2" id="SERVICIOS" style="background: #C8D418;">
+      <div class="container" style="padding: 5% 0%;">
+        <h1 class="text-center">SERVICIOS</h1> <br><br>
+        <p class="text-center">Somos especialistas en eventos masivos</p>
+        <div class="row">
+          <div class="col-md-3">
+            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
+            class="img-responsive">
+            <h2 class="text-center">A title</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,
+              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
+              <br>Ut enim ad minim veniam, quis nostrud</p>
+          </div>
+          <div class="col-md-3">
+            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
+            class="img-responsive">
+            <h2 class="text-center">A title</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,
+              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
+              <br>Ut enim ad minim veniam, quis nostrud</p>
+          </div>
+          <div class="col-md-3">
+            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
+            class="img-responsive img-rounded">
+            <h2 class="text-center">A title</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,
+              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
+              <br>Ut enim ad minim veniam, quis nostrud</p>
+          </div>
+          <div class="col-md-3">
+            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
+            class="img-responsive">
+            <h2 class="text-center">A title</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,
+              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
+              <br>Ut enim ad minim veniam, quis nostrud</p>
+          </div>
+        </div>
+      </div>
 </section>
 
 

@@ -86,10 +86,49 @@ header{
     color: #fff;
 }*/
 
+.texto{
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 16px;
+}
+.comida1{
+    width: 100%;
+    clear: both;
+    height: 250px;
+    background: url('../img/comida1.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    overflow: hidden;
+}
+.comida2{
+    width: 100%;
+    clear: both;
+    height: 250px;
+    background: url('../img/comida2.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    overflow: hidden;
+}
+.comida3{
+    width: 100%;
+    clear: both;
+    height: 250px;
+    background: url('../img/comida3.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    overflow: hidden;
+}
 /*--------------FOOTER----------*/
 footer{
   width: 100%;
-    background:#A11548;
+    background:#C8D418;
     font-family: 'Montserrat', sans-serif;
     height: 100px;
     overflow: hidden;
@@ -102,28 +141,7 @@ footer p{
     text-align: center;
     font-size: 20px;
     margin-top: 2.5%;
-    color: #fff;
-}
-/*------------------IR ARRIBa------------*/
-
-a.go-top {
-    position: fixed;
-    bottom: 2em;
-    right: 2em;
-    /*background-color: rgb(0, 0, 0, );*/
-    background-color: #A11548;
-    color: #fff;
-    font-size: 12px;
-    padding: 1em;
-    display: none;
-    z-index: 1;
-    text-decoration: none;
-}
-
-.go-top:hover {
-    /*background-color: rgba(0, 0, 0, 0.6);*/
-    background-color: black;
-    color: #fff;
+    color: #000;
 }
 
 
