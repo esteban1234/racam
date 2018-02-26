@@ -100,47 +100,139 @@
 
 <section class="seccion2" id="SERVICIOS" style="background: #C8D418;">
       <div class="container" style="padding: 5% 0%;">
-        <h1 class="text-center">SERVICIOS</h1> <br><br>
-        <p class="text-center">Somos especialistas en eventos masivos</p>
+        <h1 class="text-center">SERVICIOS</h1> <br>
+        <p class="text-center texto">Somos especialistas en eventos masivos</p> <br><br>
         <div class="row">
           <div class="col-md-3">
-            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
-            class="img-responsive">
-            <h2 class="text-center">A title</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,
+            <figure class="boda1">
+              
+            </figure>
+            <h2 class="text-center">BODAS</h2>
+            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,
               <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
-              <br>Ut enim ad minim veniam, quis nostrud</p>
+              <br>Ut enim ad minim veniam, quis nostrud</p> -->
           </div>
           <div class="col-md-3">
-            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
-            class="img-responsive">
-            <h2 class="text-center">A title</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,
+            <figure class="boda2">
+              
+            </figure>
+            <h2 class="text-center">XV AÑOS</h2>
+            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,
               <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
-              <br>Ut enim ad minim veniam, quis nostrud</p>
+              <br>Ut enim ad minim veniam, quis nostrud</p> -->
           </div>
           <div class="col-md-3">
+            <figure class="boda3">
+              
+            </figure>
+            <h2 class="text-center">GRADUACIONES</h2>
+            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,
+              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
+              <br>Ut enim ad minim veniam, quis nostrud</p> -->
+          </div>
+          <div class="col-md-3">
+            <figure class="boda4">
+              
+            </figure>
+            <h2 class="text-center">FIESTAS</h2>
+            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,
+              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
+              <br>Ut enim ad minim veniam, quis nostrud</p> -->
+          </div>
+        </div>
+
+        <br><br>
+        <div class="row">
+          <div class="col-md-3 col-md-offset-3">
+            <figure class="boda5">
+              
+            </figure>
+            <h2 class="text-center">EMPRESARIALES</h2>
+            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,
+              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
+              <br>Ut enim ad minim veniam, quis nostrud</p> -->
+          </div>
+          <div class="col-md-3">
+            <figure class="boda6">
+              
+            </figure>
+            <h2 class="text-center">DOMICILIOS</h2>
+            <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,
+              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
+              <br>Ut enim ad minim veniam, quis nostrud</p> -->
+          </div>
+          <!-- <div class="col-md-3">
             <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
             class="img-responsive img-rounded">
-            <h2 class="text-center">A title</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,
-              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
-              <br>Ut enim ad minim veniam, quis nostrud</p>
-          </div>
-          <div class="col-md-3">
-            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
-            class="img-responsive">
-            <h2 class="text-center">A title</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,
-              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
-              <br>Ut enim ad minim veniam, quis nostrud</p>
-          </div>
+            <h2 class="text-center">RESTAURANT</h2>
+          </div> -->
+          
         </div>
       </div>
 </section>
 
 
-<section class="seccion3" id="CONTACTO">
+<section class="seccion3" id="CONTACTO" style="padding: 5% 0%;">
+
+  <div class="container" >
+        <h1 class="text-center">CONTACTO</h1> <br>
+        <p class="text-center texto">CONTÁCTANOS AHORA Y COMENCEMOS A TRABAJAR.</p> <br><br>
+  </div>
+
+  <div class="mapa">
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3820.3016237142087!2d-93.08928298575663!3d16.761662724962218!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85ed276f8ff793c7%3A0xd22c78d1b4fce54!2sAv+Rosa+del+Ote+271%2C+El+Bosque%2C+29049+Tuxtla+Guti%C3%A9rrez%2C+Chis.!5e0!3m2!1ses-419!2smx!4v1519144802411" frameborder="0" style="border:0" height="400" allowfullscreen></iframe>
+        </div>
+        <br><br><br>
+
+  <div class="container-fluid">
+    <section class="container">
+    <div class="container-page">        
+      <div class="col-md-6">
+        <h3 class="dark-grey">Formulario de Contacto</h3> <br>
+        
+        <div class="form-group col-lg-12">
+          <label>Nombre</label>
+          <input type="" name="" class="form-control" id="" value="">
+        </div>
+        
+        <div class="form-group col-lg-12">
+          <label>Teléfono</label>
+          <input type="" name="" class="form-control" id="" value="">
+        </div>
+                
+        <div class="form-group col-lg-12">
+          <label>Correo</label>
+          <input type="" name="" class="form-control" id="" value="">
+        </div>
+        
+
+        <div class="form-group col-lg-12">
+        <label>Comentarios</label>
+        <textarea id="" name="" class="form-control"  rows="8" cols="40"></textarea>
+        </div>
+      
+      </div>
+    
+      <div class="col-md-6">
+        <h3 class="dark-grey">Datos de la Empresa</h3> <br>
+        <p>
+          <i class="fas fa-map-marker-alt fa-3x" style="color: #C8D418;"> </i> &nbsp; Av. Rosa del OTE Num. 271, COL. El Bosque, Tuxtla Gutierrez, Chiapas. <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C.P. 29049.
+        </p> <br>
+        <p>
+          <i class="fas fa-phone-volume fa-3x" style="color: #C8D418;"></i> &nbsp; PENDIENTE
+        </p><br>
+        <p>
+          <i class="far fa-clock fa-3x" style="color: #C8D418;"></i> &nbsp; Lunes a Viernes de 9am a 6pm
+        </p><br>
+        <p>
+          <i class="far fa-envelope fa-3x" style="color: #C8D418;"></i> &nbsp; info@gastronomiaracam.com
+        </p> <br><br>
+        
+        <button type="submit" class="btn btn-primary" style="background: #C8D418; color: #000;">ENVIAR FORMULARIO</button>
+      </div>
+    </div>
+  </section>
+</div>
 
 </section>
 

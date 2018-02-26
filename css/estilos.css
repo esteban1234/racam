@@ -125,6 +125,79 @@ header{
     /*background-attachment: fixed;*/
     overflow: hidden;
 }
+
+.boda1{
+    width: 100%;
+    clear: both;
+    height: 205px;
+    background: url('../img/bodas.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    overflow: hidden;
+}
+.boda2{
+    width: 100%;
+    clear: both;
+    height: 205px;
+    background: url('../img/anos.JPG');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    overflow: hidden;
+}
+.boda3{
+    width: 100%;
+    clear: both;
+    height: 205px;
+    background: url('../img/graduacion.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    overflow: hidden;
+}
+.boda4{
+    width: 100%;
+    clear: both;
+    height: 205px;
+    background: url('../img/fiestas.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    overflow: hidden;
+}
+.boda5{
+    width: 100%;
+    clear: both;
+    height: 205px;
+    background: url('../img/empresarial.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    overflow: hidden;
+}
+.boda6{
+    width: 100%;
+    clear: both;
+    height: 205px;
+    background: url('../img/casa.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    overflow: hidden;
+}
+.mapa{
+    width: 100%;
+}
+.mapa iframe{
+    width: 100%;
+}
 /*--------------FOOTER----------*/
 footer{
   width: 100%;
