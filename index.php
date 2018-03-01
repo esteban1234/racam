@@ -72,23 +72,23 @@
       <div class="container" style="padding: 5% 0%;">
         <div class="row">
           <div class="col-md-12">
-            <h1 class="text-center">RACAM GASTRONOMIA</h1>
-            <h3 class="text-center">El mejor lugar para disfrutar una comida bien hecha con música en vivo, cerveza y la mejor atención.</h3>
+            <h1 class="text-center tit-racam">RACAM GASTRONOMIA</h1>
+            <h3 class="text-center sub-racam">El mejor lugar para disfrutar una comida bien hecha con música en vivo, cerveza y la mejor atención.</h3>
             <p class="texto">En RACAM queremos que disfrutes. Que saborees la mejor comida y la acompañes de nuestros famosos Clamatos y cocteleria de cerveza, únicos. Además, de nuestros vinos y barra de licores. RACAM es un lugar para que vengas con tus amigos, con tu familia y la pases bien. Aqui puedes escuchar buena música, relájarte y pasar un rato a gusto con quien tu quieras. Descubre un nuevo lugar para disfrutar.</p>
           </div>
         </div> <br><br>
         <div class="row">
-          <div class="col-md-4">
+          <div class="col-xs-12 col-sm-4 col-md-4">
             <figure class="comida1">
               
             </figure>
           </div>
-          <div class="col-md-4">
+          <div class="col-xs-12 col-sm-4 col-md-4">
             <figure class="comida2">
               
             </figure>
           </div>
-          <div class="col-md-4">
+          <div class="col-xs-12 col-sm-4 col-md-4">
             <figure class="comida3">
               
             </figure>
@@ -99,42 +99,42 @@
 </section>
 
 <section class="seccion2" id="SERVICIOS" style="background: #C8D418;">
-      <div class="container" style="padding: 5% 0%;">
-        <h1 class="text-center">SERVICIOS</h1> <br>
-        <p class="text-center texto">Somos especialistas en eventos masivos</p> <br><br>
-        <div class="row">
-          <div class="col-md-3">
+      <div class="container delete-br" style="padding: 5% 0%;">
+        <h1 class="text-center tit-ser">SERVICIOS</h1> <br>
+        <p class="text-center texto texto2">Somos especialistas en eventos masivos</p> <br><br>
+        <div class="row ">
+          <div class="col-xs-12 col-sm-3 col-md-3">
             <figure class="boda1">
               
             </figure>
-            <h2 class="text-center">BODAS</h2>
+            <h2 class="text-center subtit-ser">BODAS</h2>
             <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,
               <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
               <br>Ut enim ad minim veniam, quis nostrud</p> -->
           </div>
-          <div class="col-md-3">
+          <div class="col-xs-12 col-sm-3 col-md-3">
             <figure class="boda2">
               
             </figure>
-            <h2 class="text-center">XV AÑOS</h2>
+            <h2 class="text-center subtit-ser">XV AÑOS</h2>
             <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,
               <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
               <br>Ut enim ad minim veniam, quis nostrud</p> -->
           </div>
-          <div class="col-md-3">
+          <div class="col-xs-12 col-sm-3 col-md-3">
             <figure class="boda3">
               
             </figure>
-            <h2 class="text-center">GRADUACIONES</h2>
+            <h2 class="text-center subtit-ser">GRADUACIONES</h2>
             <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,
               <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
               <br>Ut enim ad minim veniam, quis nostrud</p> -->
           </div>
-          <div class="col-md-3">
+          <div class="col-xs-12 col-sm-3 col-md-3">
             <figure class="boda4">
               
             </figure>
-            <h2 class="text-center">FIESTAS</h2>
+            <h2 class="text-center subtit-ser">FIESTAS</h2>
             <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,
               <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
               <br>Ut enim ad minim veniam, quis nostrud</p> -->
@@ -143,20 +143,20 @@
 
         <br><br>
         <div class="row">
-          <div class="col-md-3 col-md-offset-3">
+          <div class="col-xs-12 col-sm-3 col-md-3 col-md-offset-3">
             <figure class="boda5">
               
             </figure>
-            <h2 class="text-center">EMPRESARIALES</h2>
+            <h2 class="text-center subtit-ser">EMPRESARIALES</h2>
             <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,
               <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
               <br>Ut enim ad minim veniam, quis nostrud</p> -->
           </div>
-          <div class="col-md-3">
+          <div class="col-xs-12 col-sm-3 col-md-3">
             <figure class="boda6">
               
             </figure>
-            <h2 class="text-center">DOMICILIOS</h2>
+            <h2 class="text-center subtit-ser">DOMICILIOS</h2>
             <!-- <p>Lorem ipsum dolor sit amet, consectetur adipisici elit,
               <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
               <br>Ut enim ad minim veniam, quis nostrud</p> -->
@@ -172,11 +172,11 @@
 </section>
 
 
-<section class="seccion3" id="CONTACTO" style="padding: 5% 0%;">
+<section class="seccion3 delete-br" id="CONTACTO" style="padding: 5% 0%;">
 
   <div class="container" >
-        <h1 class="text-center">CONTACTO</h1> <br>
-        <p class="text-center texto">CONTÁCTANOS AHORA Y COMENCEMOS A TRABAJAR.</p> <br><br>
+        <h1 class="text-center tit-con">CONTACTO</h1> <br>
+        <p class="text-center texto txt-con">CONTÁCTANOS AHORA Y COMENCEMOS A TRABAJAR.</p> <br><br>
   </div>
 
   <div class="mapa">
@@ -187,48 +187,50 @@
   <div class="container-fluid">
     <section class="container">
     <div class="container-page">        
-      <div class="col-md-6">
+      <div class="col-sm-6 col-md-6 cont-form">
         <h3 class="dark-grey">Formulario de Contacto</h3> <br>
         
         <div class="form-group col-lg-12">
           <label>Nombre</label>
-          <input type="" name="" class="form-control" id="" value="">
+          <input type="" name="" class="form-control" id="txtNOMBRE" value="">
         </div>
         
         <div class="form-group col-lg-12">
           <label>Teléfono</label>
-          <input type="" name="" class="form-control" id="" value="">
+          <input type="" name="" class="form-control" id="txtTELEFONO" value="">
         </div>
                 
         <div class="form-group col-lg-12">
           <label>Correo</label>
-          <input type="" name="" class="form-control" id="" value="">
+          <input type="" name="" class="form-control" id="txtCORREO" value="">
         </div>
         
 
         <div class="form-group col-lg-12">
         <label>Comentarios</label>
-        <textarea id="" name="" class="form-control"  rows="8" cols="40"></textarea>
+        <textarea id="txtCOMENTARIO" name="" class="form-control"  rows="8" cols="40"></textarea>
         </div>
-      
+        
+         <div id="_AJAX_PRE_"></div><br>
+       
       </div>
     
-      <div class="col-md-6">
+      <div class="col-sm-6 col-md-6 centrar-te">
         <h3 class="dark-grey">Datos de la Empresa</h3> <br>
-        <p>
+        <p class="info">
           <i class="fas fa-map-marker-alt fa-3x" style="color: #C8D418;"> </i> &nbsp; Av. Rosa del OTE Num. 271, COL. El Bosque, Tuxtla Gutierrez, Chiapas. <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C.P. 29049.
         </p> <br>
-        <p>
+        <p class="info">
           <i class="fas fa-phone-volume fa-3x" style="color: #C8D418;"></i> &nbsp; PENDIENTE
         </p><br>
-        <p>
+        <p class="info">
           <i class="far fa-clock fa-3x" style="color: #C8D418;"></i> &nbsp; Lunes a Viernes de 9am a 6pm
         </p><br>
-        <p>
+        <p class="info">
           <i class="far fa-envelope fa-3x" style="color: #C8D418;"></i> &nbsp; info@gastronomiaracam.com
         </p> <br><br>
         
-        <button type="submit" class="btn btn-primary" style="background: #C8D418; color: #000;">ENVIAR FORMULARIO</button>
+        <button type="submit" class="btn btn-primary btn-env" onclick="sendCORREO()" style="background: #C8D418; color: #000;">ENVIAR FORMULARIO</button>
       </div>
     </div>
   </section>

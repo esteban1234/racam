@@ -198,6 +198,18 @@ header{
 .mapa iframe{
     width: 100%;
 }
+
+
+
+/*label{
+    text-align: left !important;
+}*/
+
+/*.btn-env{
+    border: 2px solid red;
+    margin: auto !important;
+    text-align: center !important;
+}*/
 /*--------------FOOTER----------*/
 footer{
   width: 100%;
